@@ -6,5 +6,5 @@ I recently started a project using Elixir/Phoenix and raw SQL querying. I have b
 Im shooting for a *This Week I Learned* kind of format, the best 'aha moment' of the week. Ideally, this post would be a sort of table of contents, linking to all the posts, but I'll have to see how that works out. The solutions I write about are as I best understand them. They could be incomplete or need more detail. I welcome all critique and suggestions on how to do things better; I'm always learning.
 
 Week of March 23: [Accessing localhost within a Docker Image](https://dev.to/noelworden/accessing-localhost-within-a-docker-image-4i3m)
-
+Week of March 30: [Identifying and Removing Hidden Characters](https://dev.to/noelworden/identifying-and-removing-hidden-characters-2m8i)
 
