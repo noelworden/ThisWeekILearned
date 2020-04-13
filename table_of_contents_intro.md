@@ -7,4 +7,4 @@ Im shooting for a *This Week I Learned* kind of format, the best 'aha moment' of
 
 Week of March 23: [Accessing localhost within a Docker Image](https://dev.to/noelworden/accessing-localhost-within-a-docker-image-4i3m)
 Week of March 30: [Identifying and Removing Hidden Characters](https://dev.to/noelworden/identifying-and-removing-hidden-characters-2m8i)
-
+Week of April 6: [Getting Granular with Git Diff](https://dev.to/noelworden/getting-granular-with-git-diff-hlb)
