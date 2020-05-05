@@ -8,3 +8,6 @@ Im shooting for a *This Week I Learned* kind of format, the best 'aha moment' of
 Week of March 23: [Accessing localhost within a Docker Image](https://dev.to/noelworden/accessing-localhost-within-a-docker-image-4i3m)
 Week of March 30: [Identifying and Removing Hidden Characters](https://dev.to/noelworden/identifying-and-removing-hidden-characters-2m8i)
 Week of April 6: [Getting Granular with Git Diff](https://dev.to/noelworden/getting-granular-with-git-diff-hlb)
+Week of April 13: [Tweaking Logger Outputs on the Fly](https://dev.to/noelworden/tweaking-logger-outputs-on-the-fly-55oa)
+Week of April 20: [Keeping Your Hands on the Keyboard: A Few Bash and Git Shortcuts](https://dev.to/noelworden/keeping-your-hands-on-the-keyboard-a-few-bash-and-git-shortcuts-3j71)
+Week of April 27: [Breaking Down Elixir's `with` Expression](https://dev.to/noelworden/breaking-down-elixir-s-with-expression-14mp)
