@@ -11,3 +11,4 @@ Week of April 6: [Getting Granular with Git Diff](https://dev.to/noelworden/gett
 Week of April 13: [Tweaking Logger Outputs on the Fly](https://dev.to/noelworden/tweaking-logger-outputs-on-the-fly-55oa)
 Week of April 20: [Keeping Your Hands on the Keyboard: A Few Bash and Git Shortcuts](https://dev.to/noelworden/keeping-your-hands-on-the-keyboard-a-few-bash-and-git-shortcuts-3j71)
 Week of April 27: [Breaking Down Elixir's `with` Expression](https://dev.to/noelworden/breaking-down-elixir-s-with-expression-14mp)
+Week of May 4: [How To Write A Custom Elixir Schema Validation](https://dev.to/noelworden/how-to-write-a-custom-elixir-schema-validation-167e/)
