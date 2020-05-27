@@ -12,3 +12,4 @@ Week of April 13: [Tweaking Logger Outputs on the Fly](https://dev.to/noelworden
 Week of April 20: [Keeping Your Hands on the Keyboard: A Few Bash and Git Shortcuts](https://dev.to/noelworden/keeping-your-hands-on-the-keyboard-a-few-bash-and-git-shortcuts-3j71)
 Week of April 27: [Breaking Down Elixir's `with` Expression](https://dev.to/noelworden/breaking-down-elixir-s-with-expression-14mp)
 Week of May 4: [How To Write A Custom Elixir Schema Validation](https://dev.to/noelworden/how-to-write-a-custom-elixir-schema-validation-167e/)
+Week of May 11: [The Handful of Commands I Use When Interactive Rebasing with Vim](https://dev.to/noelworden/the-handful-of-commands-i-use-when-interactive-rebasing-with-vim-23c5)
