@@ -13,3 +13,5 @@ Week of April 20: [Keeping Your Hands on the Keyboard: A Few Bash and Git Shortc
 Week of April 27: [Breaking Down Elixir's `with` Expression](https://dev.to/noelworden/breaking-down-elixir-s-with-expression-14mp)
 Week of May 4: [How To Write A Custom Elixir Schema Validation](https://dev.to/noelworden/how-to-write-a-custom-elixir-schema-validation-167e/)
 Week of May 11: [The Handful of Commands I Use When Interactive Rebasing with Vim](https://dev.to/noelworden/the-handful-of-commands-i-use-when-interactive-rebasing-with-vim-23c5)
+Week of May 18: [Got 5 Minutes to Spare? Why Not Set up a Custom Commit Message Template?](https://dev.to/noelworden/got-5-minutes-to-spare-why-not-set-up-a-custom-commit-message-template-4njf)
+Week of May 25: [Improving Your Commit Message with the 50/72 Rule](https://dev.to/noelworden/improving-your-commit-message-with-the-50-72-rule-3g79)
