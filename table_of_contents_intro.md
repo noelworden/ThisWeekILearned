@@ -15,3 +15,4 @@ Week of May 4: [How To Write A Custom Elixir Schema Validation](https://dev.to/n
 Week of May 11: [The Handful of Commands I Use When Interactive Rebasing with Vim](https://dev.to/noelworden/the-handful-of-commands-i-use-when-interactive-rebasing-with-vim-23c5)
 Week of May 18: [Got 5 Minutes to Spare? Why Not Set up a Custom Commit Message Template?](https://dev.to/noelworden/got-5-minutes-to-spare-why-not-set-up-a-custom-commit-message-template-4njf)
 Week of May 25: [Improving Your Commit Message with the 50/72 Rule](https://dev.to/noelworden/improving-your-commit-message-with-the-50-72-rule-3g79)
+Week of June 1: [Synchronously Looping Over Two Collections in Elixir](https://dev.to/noelworden/synchronously-looping-over-two-collections-in-elixir-594j)
