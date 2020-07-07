@@ -17,3 +17,6 @@ Week of May 18: [Got 5 Minutes to Spare? Why Not Set up a Custom Commit Message 
 Week of May 25: [Improving Your Commit Message with the 50/72 Rule](https://dev.to/noelworden/improving-your-commit-message-with-the-50-72-rule-3g79)
 Week of June 1: [Synchronously Looping Over Two Collections in Elixir](https://dev.to/noelworden/synchronously-looping-over-two-collections-in-elixir-594j)
 Week of June 8: [How to Utilize Enum.any?, with a Refactoring Twist!](https://dev.to/noelworden/how-to-utilize-enum-any-with-a-refactoring-twist-1fjm)
+Week of June 15: [A Rabbit Hole of Decimal Formatting](https://dev.to/noelworden/a-rabbit-hole-of-decimal-formatting-54n5)
+Week of June 22: [More Custom Validation Work: Manipulating a Keyword List To and From a Map](https://dev.to/noelworden/more-custom-validation-work-manipulating-a-keyword-list-to-and-from-a-map-p9b)
+Week of June 29: [Stepped Away for a Long Weekend](https://dev.to/noelworden/stepped-away-for-a-long-weekend-29jm)
