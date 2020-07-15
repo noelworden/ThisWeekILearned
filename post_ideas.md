@@ -24,17 +24,7 @@ prod_dump file upload
 
 <!--  -->
 
-%{attrs | message_opts: Map.new(attrs.message_opts)}
+instead of `.gitignore`, use `.git > info > exclude` when keeping things out of git for personal workspace reasons
 
-def create!(attrs) do
-    %{attrs | message_opts: Map.new(attrs.message_opts)}
-    |> SourceFileError.changeset()
-    |> Repo.insert!()
-  end
 
-located in source_files/errors.ex
-
-this blog post https://ropig.com/blog/ten-things-wish-knew-using-elixir/
-
-"no reason to reinvent the wheel, no shame in using something found somewhere else"
 

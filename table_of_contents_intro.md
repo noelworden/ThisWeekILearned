@@ -20,3 +20,4 @@ Week of June 8: [How to Utilize Enum.any?, with a Refactoring Twist!](https://de
 Week of June 15: [A Rabbit Hole of Decimal Formatting](https://dev.to/noelworden/a-rabbit-hole-of-decimal-formatting-54n5)
 Week of June 22: [More Custom Validation Work: Manipulating a Keyword List To and From a Map](https://dev.to/noelworden/more-custom-validation-work-manipulating-a-keyword-list-to-and-from-a-map-p9b)
 Week of June 29: [Stepped Away for a Long Weekend](https://dev.to/noelworden/stepped-away-for-a-long-weekend-29jm)
+Week of July 6: [So Many Ways to Update a Map with Elixir!](https://dev.to/noelworden/so-many-ways-to-update-a-map-with-elixir-1aie)
