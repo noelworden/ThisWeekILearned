@@ -21,3 +21,6 @@ Week of June 15: [A Rabbit Hole of Decimal Formatting](https://dev.to/noelworden
 Week of June 22: [More Custom Validation Work: Manipulating a Keyword List To and From a Map](https://dev.to/noelworden/more-custom-validation-work-manipulating-a-keyword-list-to-and-from-a-map-p9b)
 Week of June 29: [Stepped Away for a Long Weekend](https://dev.to/noelworden/stepped-away-for-a-long-weekend-29jm)
 Week of July 6: [So Many Ways to Update a Map with Elixir!](https://dev.to/noelworden/so-many-ways-to-update-a-map-with-elixir-1aie)
+Week of July 13:[Git: Keeping Files from Being Tracked Without .gitignore](https://dev.to/noelworden/git-keeping-files-from-being-tracked-without-gitignore-ap4)
+Week of July 20:[Git: Tracking Down a Committed File, with a Real-Time Ah-Ha Moment!](https://dev.to/noelworden/git-tracking-down-a-committed-file-with-a-real-time-ah-ha-moment-4an5)
+Week of July 27:[Setting up `.iex.exs` to Speed up Your Elixir Debugging (and How to Include It in a Docker Image) ](https://dev.to/noelworden/setting-up-iex-exs-to-speed-up-your-elixir-debugging-and-how-to-include-it-in-a-docker-image-14bg)
