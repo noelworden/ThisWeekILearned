@@ -24,3 +24,5 @@ Week of July 6: [So Many Ways to Update a Map with Elixir!](https://dev.to/noelw
 Week of July 13:[Git: Keeping Files from Being Tracked Without .gitignore](https://dev.to/noelworden/git-keeping-files-from-being-tracked-without-gitignore-ap4)
 Week of July 20:[Git: Tracking Down a Committed File, with a Real-Time Ah-Ha Moment!](https://dev.to/noelworden/git-tracking-down-a-committed-file-with-a-real-time-ah-ha-moment-4an5)
 Week of July 27:[Setting up `.iex.exs` to Speed up Your Elixir Debugging (and How to Include It in a Docker Image) ](https://dev.to/noelworden/setting-up-iex-exs-to-speed-up-your-elixir-debugging-and-how-to-include-it-in-a-docker-image-14bg)
+Week of August 3: [Git: The Power of the Dash](https://dev.to/noelworden/git-the-power-of-the-dash-59pn)
+Week of August 10: [Assigning Two Fields from One Dropdown Selection with Elixir](https://dev.to/noelworden/assigning-two-fields-from-one-dropdown-selection-with-elixir-2bmh)
